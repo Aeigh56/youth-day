@@ -1,0 +1,79 @@
+
+body  {
+
+
+    background-color: lightgoldenrodyellow;
+
+}
+
+h1  {
+
+    font-weight: bolder;
+    font-size: 35px;
+    color: black;
+    text-align: center
+}
+
+.container1  {
+
+  color: red;
+  text-align: center;
+    
+}
+
+
+.youthdaypic  {
+
+    border: 1px solid;
+    border-color: black;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left:0%;
+    
+}
+
+.protestpic  {
+
+    border: 1px solid;
+    border-color: black;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 0%
+}
+
+.masspic  {
+
+    border: 1px solid;
+    border-color: black;
+    width:300px;
+    height: 300px;
+    position:relative;
+    left:0%
+}
+
+.hectorpic  {
+
+    border: 1px solid;
+    border-color:black;
+    width: 300px;
+    height: 300px;
+    position:relative;
+    left:0%;
+}
+
+.container-text  {
+
+    border:2px solid;
+    background-color:lightgrey;
+    margin: 1px;
+    padding: 1px;
+    position: relative;
+    
+}
+
+
+
+
+    
